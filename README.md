@@ -27,6 +27,5 @@ https://github.com/AidanLadenburg/LofAi/assets/43151719/d676c100-9287-46e1-98f5-
 
 
 
-## The final video project can be found [here](https://www.youtube.com/watch?v=YpGc9_Q3QeE)
-## Please check it out and feel free to message me with any questions!
+## The final video project can be found [here](https://www.youtube.com/watch?v=YpGc9_Q3QeE). Please check it out and feel free to message me with any questions!
 #### aidanladenburg@gmai.com
