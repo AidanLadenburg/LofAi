@@ -1,6 +1,8 @@
 
+
 # LofAi
-#### This is the project page for LofAi, an extension of [Musika!](https://github.com/marcoppasini/musika) and the culmination of 3 months of work (Oct 2022 - Jan 2023).
+#### This is the project page for LofAi, an extension of [Musika!](https://github.com/marcoppasini/musika) and the culmination of 3 months of work (Oct 2022 - Jan 2023). The goal of This project was to create believable-sounding Lofi music, in faster-than-real-time. 
+#### All results presented here were generated in the above time period and represent (to the best of my knowledge) near-SOTA results for the time, under the given constraints.
 
 #### For privacy reasons, I've opted to keep the model private for now, so this page exists to host some of the data filtering tools used in the project as well as showcase the results.
 
